@@ -21,3 +21,12 @@ To handle his Organization's activity, the User has to click on the 'Actions' op
 
 ### Edit Organization
 
+In this option the user has to fill up a series of forms that is categorised quite differently and is required to be filled for the organizational basic information. 
+
+#### Basic info
+
+#### Organization Rating
+
+#### Contact info
+
+#### Social URLs
